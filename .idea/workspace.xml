@@ -6,7 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6c6e6db-be96-4b4b-abc8-ebb0ef3a0ca1" name="Default" comment="" />
+    <list default="true" id="f6c6e6db-be96-4b4b-abc8-ebb0ef3a0ca1" name="Default" comment="HIS医疗管理系统JavaWeb" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -539,7 +539,16 @@
       <workItem from="1567178464493" duration="196000" />
       <workItem from="1567178876836" duration="1809000" />
       <workItem from="1567228049961" duration="2738000" />
+      <workItem from="1567495302087" duration="255000" />
     </task>
+    <task id="LOCAL-00001" summary="HIS医疗管理系统JavaWeb">
+      <created>1567495471216</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567495471216</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -553,5 +562,20 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HIS医疗管理系统JavaWeb" />
+    <option name="LAST_COMMIT_MESSAGE" value="HIS医疗管理系统JavaWeb" />
   </component>
 </project>
