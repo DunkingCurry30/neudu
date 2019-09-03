@@ -1,0 +1,144 @@
+.imglogin1{
+	background-image: url(../img/login2.jpg);
+	background-size: 100% 100%;
+}
+.imglogin2{
+	background-image: url(../img/registerLogin.jpg);
+	background-size: 100% 100%;
+}
+.lines{
+height: 75px;
+}
+
+
+.ulli li{margin:40px 30px 20px 0;display:inline-block;width:100px}
+.ulli li div{display:inline-block;}
+.ulli{
+	display:inline-block;
+	margin-left: -500px;margin-top: 50px;
+}
+.pull-right-margin-top{
+	margin-top: 35px;
+}
+
+.tables-update-div{
+	width: 100%;
+}
+.tables-update-div-button-reset{
+	width:20%; margin-left: 30%;
+}
+.tables-from-button{
+	width:100%; 
+}
+.tables-from--DIVbutton{
+	width:70%; 
+}
+
+.tables-update-div-button-submit{
+	width:20%;
+}
+
+
+.tables-imput-wwidth{
+	width: 40%;
+}
+
+ .my-layui-layer-content{
+        overflow-x: hidden !important;
+    }
+    
+.my-from-margin-left{
+    	margin-left: 10%;
+    }
+    
+    
+ .my-text-align{
+  	text-align:center;
+  }  
+    
+  .my-text-align-flout{
+  text-align:center;
+  margin-left: 40%;
+  }  
+       
+.my-input-img{
+	width:35px;height: 35px;
+} 
+.my-input-img-out{
+	width:30px;height: 25px;
+}     
+/*bootstrap3的*/
+.label-default {
+  background-color: #777;
+}
+.label-default[href]:hover,
+.label-default[href]:focus {
+  background-color: #5e5e5e;
+}
+.label {
+  display: inline;
+  padding: .2em .6em .3em;
+  font-size: 75%;
+  font-weight: bold;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25em;
+}
+a.label:hover,
+a.label:focus {
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
+.label:empty {
+  display: none;
+}
+.btn .label {
+  position: relative;
+  top: -1px;
+}
+.label-default {
+  background-color: #777;
+}
+.label-default[href]:hover,
+.label-default[href]:focus {
+  background-color: #5e5e5e;
+}
+.label-primary {
+  background-color: #337ab7;
+}
+.label-primary[href]:hover,
+.label-primary[href]:focus {
+  background-color: #286090;
+}
+.label-success {
+  background-color: #5cb85c;
+}
+.label-success[href]:hover,
+.label-success[href]:focus {
+  background-color: #449d44;
+}
+.label-info {
+  background-color: #5bc0de;
+}
+.label-info[href]:hover,
+.label-info[href]:focus {
+  background-color: #31b0d5;
+}
+.label-warning {
+  background-color: #f0ad4e;
+}
+.label-warning[href]:hover,
+.label-warning[href]:focus {
+  background-color: #ec971f;
+}
+.label-danger {
+  background-color: #d9534f;
+}
+.label-danger[href]:hover,
+.label-danger[href]:focus {
+  background-color: #c9302c;
+}

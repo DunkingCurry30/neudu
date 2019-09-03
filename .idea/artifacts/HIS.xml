@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HIS">
+    <output-path>$PROJECT_DIR$/out/artifacts/HIS</output-path>
+    <root id="archive" name="HIS.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="项目一" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="项目一/web/Web" />
+    </root>
+  </artifact>
+</component>
